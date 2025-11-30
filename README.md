@@ -1,6 +1,6 @@
-# Hybrid Knowledge AI System (Blue Enigma Labs Challenge)
+# Hybrid Knowledge AI System
 
-This project is a sophisticated, hybrid Retrieval-Augmented Generation (RAG) system built for the Blue Enigma Labs AI Engineer Technical Challenge. It functions as an intelligent travel assistant for Vietnam by combining two different knowledge sources:
+This project is a sophisticated, hybrid Retrieval-Augmented Generation (RAG) system built for GENISYSAPP LLC AI Engineer Technical Challenge. It functions as an intelligent travel assistant for Vietnam by combining two different knowledge sources:
 
 * **Neo4j (Graph Database):** Stores and queries structured, relational data (e.g., "Which *restaurant* is *located in* *Hanoi*?").
 * **Pinecone (Vector Database):** Stores and searches unstructured text data based on semantic meaning (e.g., "What are some *romantic travel experiences*?").
